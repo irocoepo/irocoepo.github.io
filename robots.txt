@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irocoepo.github.io/KBy/sitemap_index.txt
+Sitemap: https://irocoepo.github.io/Wer/sitemap_index.txt
+Sitemap: https://irocoepo.github.io/rJK/sitemap_index.txt
+Sitemap: https://irocoepo.github.io/uyW/sitemap_index.txt
